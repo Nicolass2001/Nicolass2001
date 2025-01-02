@@ -12,7 +12,7 @@
 ---
 
 ### 🌟 Current Projects
-- **FinTrack [Front](https://github.com/Nicolass2001/fintrack-frontend) [Back](https://github.com/Nicolass2001/fintrack-backend): ** Simplifying personal finance management.
+- **FinTrack** **[Front](https://github.com/Nicolass2001/fintrack-frontend) [Back](https://github.com/Nicolass2001/fintrack-backend)**: Simplifying personal finance management.
 
 ---
 
