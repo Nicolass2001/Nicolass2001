@@ -14,6 +14,7 @@
 ### 🌟 Current Projects
 - **FinTrack** **[Deployed](http://fintrack.nicolaspereira.me) [Front](https://github.com/Nicolass2001/fintrack-frontend) [Back](https://github.com/Nicolass2001/fintrack-backend)**: Simplifying personal finance management.
 - **Terminal Portfolio** **[Deployed](http://terminal.nicolaspereira.me) [Repo](https://github.com/Nicolass2001/terminal-portfolio)**: A developer portfolio that simulates a Linux terminal interface — built with HTML, CSS, and vanilla JavaScript.
+- **Portfolio** **[Deployed](http://nicolaspereira.me) [Repo](https://github.com/Nicolass2001/portfolio)**: A dynamic web portfolio built with React.
 
 ---
 
